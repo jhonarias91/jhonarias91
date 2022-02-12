@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jhonarias91, I' currently working on XPO Logistic as a contractor.
+- 👋 Hi, I’m @jhonarias91, I'm currently working on XPO Logistic as a contractor.
 I'm improving my English every day, I'm a Spanish speaker.
 - 👀 I’m interested in java and spring a projects.
 - 🌱 I’m currently learning about spring boot
